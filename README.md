@@ -1,6 +1,6 @@
 # Welcome to the Back of the Lab
 
-This is where the less exciting, but important stuff lives: credits, acknowledgements and attribution for resources used in **Dial-Up Mod Lab** branding, graphics and other general Lab materials.
+This is where the less exciting, but important stuff lives: credits and acknowledgements for resources used in **Dial-Up Mod Lab** branding, graphics and other general materials.
 
 The actual experiments, variants and projects have their own credits, acknowledgements, copyright notices and licence information on their respective project pages.
 
