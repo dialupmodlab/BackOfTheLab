@@ -1,14 +1,14 @@
-# Welcome to the Back of the Lab
+# Back of the Lab
 
-**The filing cabinets had to go somewhere**. Here you'll find credits and acknowledgements for resources used in Dial-Up Mod Lab branding, graphics and other general materials, along with other bits and pieces from around the Lab.
+**The filing cabinets had to go somewhere**. Here you'll find credits and acknowledgements for resources used in **Dial-Up Mod Lab** branding, graphics and other general materials, along with other bits and pieces from around the Lab.
 
 The actual experiments, variants and projects have their own credits, acknowledgements, copyright notices and licence information on their respective project pages.
 
 ## General Credits
 
-Unless otherwise stated, Dial-Up Mod Lab branding and general creative material is designed and produced by @56kBeard.
+Unless otherwise stated, Dial-Up Mod Lab branding and general creative material is designed and produced by [@56kBeard](https://linktr.ee/56kBeard)
 
-**Dial-Up Mod Lab** also uses selected third-party, publicly available resources. Where applicable, these are credited in line with their respective licence terms - thanks to the creators for making them available. Project specific copyright, licensing, attribution and intellectual-property information is provided with the relevant project and is not covered by this repository.
+Dial-Up Mod Lab also uses selected third-party, publicly available resources. Where applicable, these are credited in line with their respective licence terms - thanks to the creators for making them available. Project specific copyright, licensing, attribution and intellectual-property information is provided with the relevant project and is not covered by this repository.
 
 ### Dial-Up Mod Lab logo
 - ICONS: Selected icons from tabler.io (MIT).
