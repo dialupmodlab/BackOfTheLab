@@ -14,7 +14,7 @@ Unless otherwise stated, Dial-Up Mod Lab branding and general creative material 
 - ICONS: Selected icons from tabler.io (MIT).
 - FONTS: Audiowide, Comfortaa (SIL Open Font License).
 
-### Small Print
+## Small Print
 Dial-Up Mod Lab is an independent, fanmade, non-commercial project space - helping the community get games to the table. Dial-Up Mod Lab is not affiliated with, endorsed by, or sponsored by any referenced game publishers or rights holders.
 
 Project specific usage terms, copyright notices and licence information can be found with the relevant project.
